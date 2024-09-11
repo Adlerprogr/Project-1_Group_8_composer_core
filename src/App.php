@@ -1,16 +1,13 @@
 <?php
 
-
-namespace src;
-
-use src;
+namespace Adler\Corepackege;
 
 class App
 {
-    private src\Container $container;
+    private Container $container;
     private array $routes = [];
 
-    public function __construct(src\Container $container)
+    public function __construct(Container $container)
     {
         $this->container = $container;
     }

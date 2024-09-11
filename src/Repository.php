@@ -1,7 +1,7 @@
 <?php
 
-
 namespace src;
+
 class Repository
 {
     protected static PDO $pdo;

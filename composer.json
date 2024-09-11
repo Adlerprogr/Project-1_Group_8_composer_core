@@ -1,0 +1,15 @@
+{
+    "name": "adler/corepackege",
+    "autoload": {
+        "psr-4": {
+            "Adler\\Corepackege\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adlerprogr",
+            "email": "zhargalovald@yandex.ru"
+        }
+    ],
+    "require": {}
+}

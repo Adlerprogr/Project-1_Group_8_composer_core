@@ -1,7 +1,6 @@
 <?php
 
-
-namespace src;
+namespace Adler\Corepackege;
 
 class Logger implements LoggerInterface
 {

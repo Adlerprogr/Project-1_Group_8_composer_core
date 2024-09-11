@@ -1,7 +1,7 @@
 <?php
 
+namespace Adler\Corepackege;
 
-namespace src;
 class Container
 {
     private array $services = [];

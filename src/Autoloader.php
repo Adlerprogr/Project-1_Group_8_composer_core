@@ -1,7 +1,7 @@
 <?php
 
+namespace Adler\Corepackege;
 
-namespace src;
 class Autoloader
 {
     public static function registration(string $dir): void

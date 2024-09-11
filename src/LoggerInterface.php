@@ -1,7 +1,7 @@
 <?php
 
+namespace Adler\Corepackege;
 
-namespace src;
 interface LoggerInterface
 {
     public function emergency($message, array $context = array()): void;

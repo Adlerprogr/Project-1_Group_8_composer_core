@@ -1,7 +1,7 @@
 <?php
 
+namespace Adler\Corepackege;
 
-namespace src;
 class Request
 {
     protected string $method;
