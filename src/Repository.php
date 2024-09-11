@@ -1,6 +1,6 @@
 <?php
 
-namespace src;
+namespace Adler\Corepackege;
 
 class Repository
 {
